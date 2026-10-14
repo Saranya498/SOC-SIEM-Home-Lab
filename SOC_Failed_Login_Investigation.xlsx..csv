@@ -1,0 +1,8 @@
+_time,host,Account_Name,EventCode,Logon_Type,Status,message
+2026-10-14T22:39:00.000+0530,LAB-WINDOWS-TEST,lab_test_user,4625,3,0xC000006D,Simulated failed Windows authentication for alert validation
+2026-10-14T22:39:12.000+0530,LAB-WINDOWS-TEST,lab_test_user,4625,3,0xC000006D,Simulated failed Windows authentication for alert validation
+2026-10-14T22:39:24.000+0530,LAB-WINDOWS-TEST,lab_test_user,4625,3,0xC000006D,Simulated failed Windows authentication for alert validation
+2026-10-14T22:39:36.000+0530,LAB-WINDOWS-TEST,lab_test_user,4625,3,0xC000006D,Simulated failed Windows authentication for alert validation
+2026-10-14T22:39:48.000+0530,LAB-WINDOWS-TEST,lab_test_user,4625,3,0xC000006D,Simulated failed Windows authentication for alert validation
+2026-10-14T22:40:00.000+0530,LAB-WINDOWS-TEST,lab_test_user,4625,3,0xC000006D,Simulated failed Windows authentication for alert validation
+2026-10-14T22:40:12.000+0530,LAB-WINDOWS-TEST,lab_test_user,4625,3,0xC000006D,Simulated failed Windows authentication for alert validation
